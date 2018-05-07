@@ -1,0 +1,12 @@
+ws2d.core.command
+ws2d.core.generic
+ws2d.core.network
+ws2d.core.network.packet
+ws2d.core.physics
+ws2d.core.server
+ws2d.init
+ws2d.init.libs
+ws2d.init.reflect
+ws2d.init.setup
+ws2d.main
+ws2d.util

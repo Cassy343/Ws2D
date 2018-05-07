@@ -1,6 +1,8 @@
 bin/
 build/
 dist/
+lib/CopyLibs/
+lib/nblibraries.properties
 lib-extra/
 nbproject/
 run/

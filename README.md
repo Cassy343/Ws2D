@@ -1,6 +1,7 @@
 # Ws2D
 The purpose of this utility is to provide a simple object-oriented way to create a web-game with a Java back-end. Ws2D (Web Service 2D) is a platform on which a 2D
-game can be built, removing the hassle of networking and physics implementation.
+game can be built, removing the hassle of networking and physics implementation. Another benefit of Ws2D is that all libraries are managed by the Jar. When launched,
+Ws2D will unpack any libraries that it cannot find automatically.
 <br/>
 Please note that this platform is currently still in development and is not ready for release.
 
@@ -20,4 +21,4 @@ The Ws2D Jar has project setup integrated into it. Use the following steps to cr
 # Launching the Project
 - Use the generated launch script in the run folder to run the project. The game Jar and Ws2D jar should be in that directory.
 - The necessary libraries for Ws2D will be extracted at runtime if they are not located.
-- Setting for the hosted HTTP service can be specified in the `game.json` file of your project.
+- Settings for the hosted HTTP service can be specified in the `game.json` file of your project.
